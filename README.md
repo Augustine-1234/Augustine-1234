@@ -10,4 +10,7 @@
 LANGUAGES AND TOOLS:
 
 ![image](https://user-images.githubusercontent.com/114701019/196531050-72d3b01f-3af2-4f8e-a6f9-06682732a548.png)
+![image](https://user-images.githubusercontent.com/114701019/196531684-b864dae8-6735-4482-b546-8ada7807bf5c.png)
+![image](https://user-images.githubusercontent.com/114701019/196532070-94ac7f23-6cf4-4fcd-a606-642112db1741.png)
+
 
