@@ -9,4 +9,5 @@
 
 LANGUAGES AND TOOLS:
 
-https://images.app.goo.gl/iBLVxBRN37SUY7A98
+![image](https://user-images.githubusercontent.com/114701019/196531050-72d3b01f-3af2-4f8e-a6f9-06682732a548.png)
+
