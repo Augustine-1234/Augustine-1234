@@ -9,4 +9,4 @@
 
 LANGUAGES AND TOOLS:
 
-https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg#/media/File:Python-logo-notext.svg
+https://images.app.goo.gl/iBLVxBRN37SUY7A98
